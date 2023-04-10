@@ -1,6 +1,4 @@
-# FCBleomessi10
-
-# Hi, I'm Chasing 👋🏻
+# Hi, I'm FCBleomessi10 👋🏻
 
 - 🏫 I'm a master student majoring in Computer Science in ShangHai University
 - 🔭 I’m currently working on [**MIT6.824**](https://pdos.csail.mit.edu/6.824/schedule.html)
